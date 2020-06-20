@@ -10,7 +10,7 @@ Click on the square that you want to write. Press a temporaly number and press D
 
 ## Future improvements
 
-*Include a initial menu to select the level of the Sudoku
-*Include a button to show the solution of the Sudoku and another to going back to the initial menu.
-*Include a ranking of finished Sudokus with the time and the level.
-*Improve the GUI
+* Include a initial menu to select the level of the Sudoku.
+* Include a button to show the solution of the Sudoku and another to going back to the initial menu.
+* Include a ranking of finished Sudokus with the time and the level.
+* Improve the GUI.
